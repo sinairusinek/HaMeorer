@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>BrennerSampleLetter</title>
+      </titleStmt>
+      <publicationStmt><p></p></publicationStmt>
+      <sourceDesc><p></p></sourceDesc>
+   </fileDesc>
+</teiHeader>
+   <TEI n="37"><teiHeader><fileDesc>
+      <titleStmt>
+         <title></title>
+      </titleStmt>
+      <publicationStmt><p></p></publicationStmt>
+      <sourceDesc><p></p></sourceDesc>
+   </fileDesc><profileDesc><correspDesc><correspAction type="sender"><persName>י. ח. ברנר</persName><settlement>לונדון</settlement><date>כ"ח מרץ [1904]</date></correspAction>
+      <correspAction type="receiver"><persName>ח. נ. ביאליק</persName></correspAction></correspDesc></profileDesc></teiHeader><text><body>
+      
+      <p><hi>37. ל<persName xml:id="recogito-5423aa58-ff30-4d90-a293-0a89f917cfc0">ח. נ. ביאליק</persName></hi></p>
+      
+      <p>כ"ח מרץ [1904]<note>345</note>, <placeName xml:id="recogito-4ca7928f-ad8a-4982-baa3-5f03606ac1c5" ref="geo-kima.org/place/362" cert="high" ana="#Brenner">איידקונן</placeName><note target="recogito-4ca7928f-ad8a-4982-baa3-5f03606ac1c5" resp="Ortal">a city in Germany</note>, על גבול פרוסיה.</p>
+      
+      <p>אישי ומשוררי!</p>
+      
+      <p>באלה שלושת הירחים שעברו מיום כתבי אליך מכתבי האחרון כבר לא אחת ולא שתים
+         אמרתי: נגזרתי! אך הנה אני כותב אליך. וזה לך האות, כי עוד אוסיף לעבוד את
+         “השלוח”, ופה אני מביע תודתי בעד מאה הכסף שנשלח בשבילי בעתו להצלתי
+         ולפדות-נפשי, ותקוותי חזקה, כי יהיה אלוהים עמדי לעבוד את אדמת ספרוּתנו
+         המקורית באותו המקצוע שאתה עורכו.<note>346</note></p>
+      
+      <p>במכתבי הקצר האחרון הבטחתי בשביל “השלוח” את סיפורי “גלוּת”, שכבר היה
+         בכתובים, אך יקום נא <persName xml:id="recogito-d12eeba7-deae-4e63-a254-fef703f9f888">הלל צייטלין</persName> ויעיד שזה ועוד כתבים הרבה (“לא כלום”,
+         ציור, “מכתבי נכה-רוח” “עוד מכתבי נכה-רוח”, ציורים מחיי אנשי הצבא, חומר
+         רב לרומן מחיי האינטליגנציה העברית בשם “האחרונים”)<note>347</note> – כל זה אבד
+         עולמית, הודות לאסון אשר קרני,<note>348</note> ולא עוד אלא שאף שמונת הפרקים מהרומן
+         הנ"ל שכתבתי מחדש בהיותי נחבא בעיירה אחת<note>349</note> ברוסיה (<persName xml:id="recogito-28d84654-c42f-4715-a8e4-1c18cad1af9a">א. נ. גנסין</persName> ידידי
+         קראם בהיותו אתי שם) ואשר לקחתי אתי לדרך – גם הם אינם אתי עתה. דרכי היתה
+         קשה ומלאה חתחתים וממוות ממש ניצלתי במקרה.</p>
+      
+      <p>רציתי לנסוע ל<placeName xml:id="recogito-f21b61d8-7847-4b94-ace4-3825e3998936" ref="geo-kima.org/place/32" cert="high">ניוּ-יוֹרק</placeName>, אך אין כסף בידי. אמרת לנסוע ל<placeName xml:id="recogito-2e5c8231-3a2f-4525-acd3-b5eeec2b24f6" ref="sws.geonames.org/2661552" cert="high">בּאֶרן</placeName> אשר בשווייץ
+         – ואין מניחים פה לנסוע להתם מכאן. מוּכרח אני לנסוע ל<placeName xml:id="recogito-3553ccc8-e2c0-4725-81c1-03d77ccb4b8d" ref="sws.geonames.org/2643743" cert="high" ana="#Brenner">לונדון</placeName>. מקום אחר
+         אין. קניתי כרטיס ונשארו בידי שני מארקים וחצי – – –.<note>350</note> משם אכתוב לך.
+         עתה מצאתי לנכון להזכירך עלי ועל מצבי למען תדע ותזכור, אולי תימצא בידך
+         איזו עבודה ספרוּתית בעדי, כי צר לי מאוד, אם אוכרח למהר בכתיבת ציורַי כדי
+         להחיות את נפשי. אני בקי היטב בספרות הרוסית, ואולי יש צורך ל“השלוח”
+         בסקירות מעין זה. קצר המקום ועוד אשוב לדבר.</p>
+      
+      <p>מעריצך</p>
+      
+         <p><hi><persName xml:id="recogito-42ad83ab-e458-4180-8f1e-b4d5cc52fe01">י.ח. ברנר</persName></hi>.</p></body></text></TEI></teiCorpus>
